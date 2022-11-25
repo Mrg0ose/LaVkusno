@@ -23,3 +23,6 @@
 
 Пестов Владислав - Scrum-мастер. 
 (Руководитель группы разработчиков)
+
+Прототип программы:
+https://www.figma.com/file/msKBUNEitWzwdgHA53Tp8s/Untitled?node-id=0%3A1
