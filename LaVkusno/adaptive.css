@@ -1,0 +1,353 @@
+@media screen and (mix-width: 1280px) {
+.header_nav{
+line-height: 9vh;
+
+}
+.header_item_b{
+  margin-right: 70vh;
+}
+
+.intro{
+  height: 40vh;
+  }
+
+  .opisimg{
+  padding-top: 5vh;
+
+}
+
+.onas{
+  height: 75vh;
+
+}
+
+
+.btn-up {
+
+  margin-left: 160vh; /* расстояние от правого края */
+  
+}
+
+.tx{
+  padding-top: 5vh;
+  letter-spacing: 1px;
+  padding-left: 80vh;
+}
+
+.tx1{
+  letter-spacing: 1px;
+  padding-left: 80vh;
+}
+
+.tx2{
+letter-spacing: 1px;
+  padding-left: 85vh;
+  margin-top:-2vh ;
+}
+.tx3{
+  letter-spacing: 1px;
+  padding-left:85vh;
+  margin-top:-2vh ;
+}
+.opisimg2{
+  float: right;
+  padding-right: 15vh;
+  margin-top: -18vh;
+}
+.tx4{
+letter-spacing: 1px;
+text-shadow: 1px 0 1px black, 
+        0 1px 1px black, 
+        -1px 0 1px black, 
+        0 -1px 1px black;
+        padding-left: 95vh;
+  margin-top:3vh ;
+}
+.tx5{
+  font-size:24px;
+  letter-spacing: 1px;
+  text-shadow: 1px 0 1px black, 
+        0 1px 1px black, 
+        -1px 0 1px black, 
+        0 -1px 1px black;
+        padding-left: 90vh;
+  margin-top:0vh ;
+       
+}
+
+.menur{
+  height: 74vh;
+  background-color: rgb(23, 16, 11, 0.65);
+  text-shadow: 1px 0 1px black, 
+        0 1px 1px black, 
+        -1px 0 1px black, 
+        0 -1px 1px black;
+}
+
+.winmss{
+   margin-left: 8vh;
+   margin-right: 4.5vh;
+    
+ }
+.vipspismenu{
+  height: 124vh;
+  margin-top: -31.5px;
+}
+
+.winmsp{
+  width: 1000px;
+   margin-top: 6vh;
+   
+    
+ }
+.geo{
+  height: 73vh;
+}
+
+.txgeo{
+  letter-spacing: 1px;
+  padding-left: 80vh;
+}
+
+.bron{
+  margin-left: 6vh;
+
+}
+.win4{
+  margin-top: 23vh;
+  margin-left: 5vh;
+  }
+  .socs{
+  
+  margin-left: 36vh;
+  margin-top: -3.8vh;
+}
+}
+
+@media screen and (max-width: 1440px){
+
+  .opisimg{
+  padding-top: 3vh;
+
+}
+
+.onas{
+  height: 70vh;
+
+}
+
+.tx{
+  padding-top: 3vh;
+  padding-left: 55vh;
+}
+
+.tx1{
+  letter-spacing: 1px;
+  padding-left: 55vh;
+}
+
+.tx2{
+letter-spacing: 1px;
+  padding-left: 57vh;
+  margin-top:-2vh ;
+}
+.tx3{
+  letter-spacing: 1px;
+  padding-left:60vh;
+  margin-top:-2vh ;
+}
+.opisimg2{
+  float: right;
+  padding-right: 10vh;
+  margin-top: -12vh;
+}
+.tx4{
+letter-spacing: 1px;
+text-shadow: 1px 0 1px black, 
+        0 1px 1px black, 
+        -1px 0 1px black, 
+        0 -1px 1px black;
+        padding-left: 65vh;
+  margin-top:3vh ;
+}
+.tx5{
+  font-size:24px;
+  letter-spacing: 1px;
+  text-shadow: 1px 0 1px black, 
+        0 1px 1px black, 
+        -1px 0 1px black, 
+        0 -1px 1px black;
+        padding-left: 65vh;
+  margin-top:0vh ;
+       
+}
+
+.menur{
+  height: 53vh;
+}
+
+.winmss{
+   margin-left: 3.8vh;
+
+    
+ }
+.vipspismenu{
+  height: 90vh;
+  margin-top: -45px;
+}
+
+.winmsp{
+  width: 974px;
+   margin-top: 4vh;
+   
+    
+ }
+.geo{
+  height: 50vh;
+}
+
+.txgeo{
+  
+  padding-left: 56vh;
+}
+
+.bron{
+  margin-left: 2vh;
+
+}
+.win4{
+  margin-top: 16vh;
+  margin-left: 5vh;
+  }
+  .socs{
+  
+  margin-left: 27vh;
+  margin-top: -2.7vh;
+}
+  }
+
+ @media screen and (max-width: 1366px){
+.header_nav{
+line-height: 9vh;
+
+}
+.header_item_b{
+  margin-right: 70vh;
+}
+
+.intro{
+  height: 40vh;
+  }
+
+  .opisimg{
+  padding-top: 5vh;
+
+}
+
+.onas{
+  height: 75vh;
+
+}
+
+
+.btn-up {
+
+  margin-left: 160vh; /* расстояние от правого края */
+  
+}
+
+.tx{
+  padding-top: 5vh;
+  letter-spacing: 1px;
+  padding-left: 80vh;
+}
+
+.tx1{
+  letter-spacing: 1px;
+  padding-left: 80vh;
+}
+
+.tx2{
+letter-spacing: 1px;
+  padding-left: 85vh;
+  margin-top:-2vh ;
+}
+.tx3{
+  letter-spacing: 1px;
+  padding-left:85vh;
+  margin-top:-2vh ;
+}
+.opisimg2{
+  float: right;
+  padding-right: 15vh;
+  margin-top: -18vh;
+}
+.tx4{
+letter-spacing: 1px;
+text-shadow: 1px 0 1px black, 
+        0 1px 1px black, 
+        -1px 0 1px black, 
+        0 -1px 1px black;
+        padding-left: 95vh;
+  margin-top:3vh ;
+}
+.tx5{
+  font-size:24px;
+  letter-spacing: 1px;
+  text-shadow: 1px 0 1px black, 
+        0 1px 1px black, 
+        -1px 0 1px black, 
+        0 -1px 1px black;
+        padding-left: 90vh;
+  margin-top:0vh ;
+       
+}
+
+.menur{
+  height: 74vh;
+  background-color: rgb(23, 16, 11, 0.65);
+  text-shadow: 1px 0 1px black, 
+        0 1px 1px black, 
+        -1px 0 1px black, 
+        0 -1px 1px black;
+}
+
+.winmss{
+   margin-left: 8vh;
+   margin-right: 4.5vh;
+    
+ }
+.vipspismenu{
+  height: 124vh;
+  margin-top: -31.5px;
+}
+
+.winmsp{
+  width: 1000px;
+   margin-top: 6vh;
+   
+    
+ }
+.geo{
+  height: 73vh;
+}
+
+.txgeo{
+  letter-spacing: 1px;
+  padding-left: 80vh;
+}
+
+.bron{
+  margin-left: 6vh;
+
+}
+.win4{
+  margin-top: 23vh;
+  margin-left: 5vh;
+  }
+  .socs{
+  
+  margin-left: 36vh;
+  margin-top: -3.8vh;
+}
+}
